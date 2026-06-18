@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔧 DevOps / Cloud Engineer focused on building reliable, automated infrastructure.
-- ☸️ I work day-to-day with **Kubernetes**, **Docker**, **Helm**, and **AWS**.
+- ☸️ I work day-to-day with **Kubernetes**, **Docker**, **Helm**,**Azure**,**GCP** and **AWS**.
 - 📈 I care about observability, security hardening, and clean CI/CD pipelines.
 - 🗂️ I keep practical knowledge bases of real-world issues I solve — see
   [DevOps-CommonIssues](https://github.com/mohdazhar96/DevOps-CommonIssues) and
@@ -57,7 +57,7 @@
 ---
 
 ### 📫 Connect
-- 📧 Email: **commonit4u@gmail.com**
+- 📧 Email: **azhar2mohd@gmail.com**
 <!-- - 💼 LinkedIn: https://linkedin.com/in/your-handle -->
 <!-- - 🌐 Portfolio: https://your-site.dev -->
 
